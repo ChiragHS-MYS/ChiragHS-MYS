@@ -12,7 +12,6 @@
 
 💬 **Ask me about:** Backend development, C++, Node.js, or building real-world beginner-friendly projects.
 
-⚡ **Fun fact:** I’m a black belt in karate, a sports lover, and I never skip leg day—except when debugging takes over 😄.
 
 <br>
 <div align="center">
