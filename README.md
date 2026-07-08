@@ -1,39 +1,140 @@
-<h1 align="center">Hi 👋, I'm Chirag</h1>
-<h3 align="center">Aspiring Software Engineer • Backend Developer • CS Engineering Student</h3>
+```md
+<h1 align="center">Hi 👋, I'm Chirag H S</h1>
 
-<br>
-<h2 align="center">💫 About Me:</h2> 
-🛠 I'm currently working on: IOT project
-🤝 **I'm looking to collaborate on:** Open-source backend or AI projects that help people learn or solve real problems.
+<h3 align="center">
+Java Backend Developer • Spring Boot Enthusiast • Computer Science Engineering Student
+</h3>
 
-🔍 **I'm looking for help with:** Improving database optimization and deploying scalable services.
+<p align="center">
+Passionate about building scalable backend systems, solving DSA problems, and creating real-world software.
+</p>
 
-📚 **I'm currently learning:** MongoDB, WebSockets, JWT authentication, and a bit of React.
+---
 
-💬 **Ask me about:** Backend development, C++, Node.js, or building real-world beginner-friendly projects.
+## 🚀 About Me
 
+- 🎓 Computer Science Engineering Student
+- 💻 Currently building **NovaBank** – A Digital Banking System using Java & Spring Boot
+- 🌱 Currently learning **Spring Boot, Spring Security, JPA/Hibernate, Redis, Kafka & Docker**
+- 👨‍💻 Practicing **Data Structures & Algorithms** regularly
+- 🤝 Open to collaborating on Backend, Java, and Open Source projects
+- 🎯 Goal: Become a Backend Software Engineer at a top product-based company
 
-<br>
-<div align="center">
-  
-<h2>💻 My Tech Stack</h2>
+---
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,js,ts,vercel,express,nodejs,react,vite,mongodb,mysql,supabase,git,notion,postman&perline=8)](https://skillicons.dev)
+## 💻 Tech Stack
 
-![ChiragHS-MYS's GitHub stats](https://github-readme-stats-ten-pi-72.vercel.app/api?username=ChiragHS-MYS&show_icons=true&theme=radical)
+<p align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-1183.vercel.app?user=ChiragHS-MYS&theme=neon&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=200)](https://git.io/streak-stats)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,mongodb,redis,docker,git,github,postman,vscode,idea,c,cpp,python,js,react,nodejs&perline=6)](https://skillicons.dev)
 
+</p>
 
-<h3>✍️ Random Dev Quote</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+---
 
-## Connect with me  
-  <a href="https://www.linkedin.com/in/chirag-h-s-7100b92a7/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:chiraghs08@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
-  </a>
+## 🚀 Featured Projects
 
-</div>
+### 🏦 NovaBank
+Secure Digital Banking System built using Spring Boot.
+
+**Features**
+- JWT Authentication
+- Account Management
+- Money Transfer
+- Transaction History
+- REST APIs
+- MySQL + JPA
+
+---
+
+### 📈 WiseMoney
+
+Stock Market Analysis Platform helping users understand market trends and investment insights.
+
+---
+
+### 🤖 MAVIS
+
+Multimodal Animal Vitals & Intelligence System
+
+IoT-based animal health monitoring using sensors, edge computing, machine learning, and a web dashboard.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ChiragHS-MYS&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragHS-MYS&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ChiragHS-MYS&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📚 Currently Exploring
+
+- Spring Boot
+- Spring Security
+- JWT Authentication
+- Hibernate & JPA
+- Redis
+- Kafka
+- Docker
+- Microservices
+- System Design
+- AWS
+
+---
+
+## 💡 Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/chirag-h-s-7100b92a7">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:chiraghs08@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/ChiragHS-MYS">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=ChiragHS-MYS&color=blueviolet&style=for-the-badge)
+
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
+```
