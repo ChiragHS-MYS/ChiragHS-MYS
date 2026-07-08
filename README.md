@@ -1,9 +1,9 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Chirag H S</h1>
 
-<h3 align="center">
-Java Backend Developer • Spring Boot Enthusiast • Computer Science Engineering Student
-</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+Developer;Computer+Science+Engineering+Student;Backend+%7C+DSA+%7C+System+Design;Always+Learning+New+Things+🚀" />
+</p>
 
 <p align="center">
 Passionate about building scalable backend systems, solving DSA problems, and creating real-world software.
@@ -107,19 +107,12 @@ IoT-based animal health monitoring using sensors, edge computing, machine learni
 ## 🌐 Connect with Me
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/chirag-h-s-7100b92a7">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
-
 <a href="mailto:chiraghs08@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://github.com/ChiragHS-MYS">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
@@ -127,7 +120,6 @@ IoT-based animal health monitoring using sensors, edge computing, machine learni
 </p>
 
 ---
-
 <p align="center">
 
 ![](https://komarev.com/ghpvc/?username=ChiragHS-MYS&color=blueviolet&style=for-the-badge)
